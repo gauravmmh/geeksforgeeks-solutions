@@ -2,7 +2,7 @@
  *
  * Geeksforgeeks-solutions
  *
- * Name: sll/delete_node_using_pointer/delete_node_using_pointer.c
+ * Name: sll/middle_element_of_sll/middle_element_of_sll.c
  * Module: sll
  * Created: Gaurav Mahajan <gauravmmh@gmail.com>
  *
