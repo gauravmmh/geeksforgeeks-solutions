@@ -2,7 +2,7 @@
  *
  * Geeksforgeeks-solutions
  *
- * Name: sll/middle_element_of_sll/middle_element_of_sll.c
+ * Name: sll/lenght_of_sll/lenght_of_sll.c
  * Module: sll
  * Created: Gaurav Mahajan <gauravmmh@gmail.com>
  *
@@ -14,9 +14,9 @@
 #include "../include/sll.h"
 
 /**
- * sll_get_len: This function return the lenth of sll. 
+ * sll_get_len: This function return the lenth of sll.
  *
- * @head: head of the sll whose middle element is to be found.
+ * @head: head of the sll.
  *
  * @return: returns the length of sll.
  * */

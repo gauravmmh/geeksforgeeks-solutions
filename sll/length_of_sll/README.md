@@ -1,4 +1,4 @@
-# Find middle element of sll 
+# Find lenght of SLL
 
 ## Problem statement
 Give a sll find lenght of sll. 
