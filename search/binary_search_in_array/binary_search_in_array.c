@@ -137,7 +137,7 @@ main()
 	}
 
 	/* Test 4: Invalid case - Recursive */
-	key = 66; /* key to be searched */
+	key = 67; /* key to be searched */
 
 	status = binary_search_recursive(arr,0,4, key);
 	if (status != GLOBAL_FAILURE)
